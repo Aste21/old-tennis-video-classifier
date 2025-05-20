@@ -163,3 +163,9 @@ cython_debug/
 *.wav
 *.csv
 *.png
+models/
+*.json
+*.avi
+*.txt
+*.jpg
+*.pt
